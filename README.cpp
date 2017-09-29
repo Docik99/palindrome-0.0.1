@@ -7,7 +7,6 @@ int main()
 
     int len, k;
     string str;
-
     cin >> str;
     len = str.length();
     for (int i = 0; i <= len / 2 - 1; i++)
